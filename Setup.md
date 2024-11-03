@@ -1,4 +1,4 @@
-# Software Testing Setup 
+# Environment Setup 
 
 This repository contains all testing assignments and resources. Follow the instructions below to set up the required environment.
 
