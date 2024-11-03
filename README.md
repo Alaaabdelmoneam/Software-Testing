@@ -58,4 +58,4 @@ Download and install IntelliJ IDEA from [JetBrains](https://www.jetbrains.com/id
 
 ---
 
-Once complete, you’ll be ready to start working on testing assignments.
+Once complete, you’ll be ready to start working on testing assignments 🚀🚀🚀
