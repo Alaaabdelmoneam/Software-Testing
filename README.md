@@ -26,7 +26,7 @@ To find your processor architecture, check your device specs in settings:
 ## 2. IntelliJ IDE Installation
 Download and install IntelliJ IDEA from [JetBrains](https://www.jetbrains.com/idea/download/?section=mac).
 
-- **Important**: Download the **Community Edition** instead of the Ultimate Edition (which has a free trial).
+- **Important**: Download the **Community Edition** instead of the Ultimate Edition.
 - Follow the on-screen steps to complete the installation.
 
 ![IntelliJ Download Instructions](https://github.com/user-attachments/assets/28c86b9f-9779-440b-b702-e4b2dfcd4981)
